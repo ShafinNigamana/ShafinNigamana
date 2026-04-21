@@ -46,7 +46,7 @@ Full-stack MERN application for managing university events
 - Event lifecycle & archive system  
 - REST API architecture  
 
-👉 [View Project](https://github.com/YOUR_USERNAME/UniEvents)
+👉 [View Project](https://github.com/ShafinNigamana/UniEvents)
 
 ---
 
