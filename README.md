@@ -50,6 +50,8 @@ Full-stack MERN application for managing university events
 
 ---
 
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=ShafinNigamana)
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ShafinNigamana&show_icons=true&theme=radical)
