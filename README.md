@@ -78,20 +78,25 @@ I am an active contributor to high-fidelity open-source projects. Here is a summ
 
 <div align="center">
   <h3>⚡ My Live CommitPulse Monolith ⚡</h3>
-  <img src="https://commitpulse.vercel.app/api/streak?user=ShafinNigamana" alt="CommitPulse Streak" width="400" />
+  <img src="https://commitpulse.vercel.app/api/streak?user=ShafinNigamana" alt="CommitPulse Streak" width="420" />
 </div>
 
 <br />
 
-| 📈 GitHub Activity | 🛠️ Top Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=ShafinNigamana&show_icons=true&theme=radical" alt="Shafin's Github Stats" width="400" /> <br /> <img src="https://streak-stats.demolab.com/?user=ShafinNigamana&theme=radical" alt="Shafin's Streak Stats" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafinNigamana&layout=compact&theme=radical" alt="Shafin's Top Languages" height="280" /> |
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShafinNigamana&show_icons=true&theme=radical" alt="Shafin's Github Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShafinNigamana&layout=compact&theme=radical" alt="Shafin's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ShafinNigamana&theme=radical" alt="Shafin's Streak Stats" />
+</p>
 
 ---
 
-## 🏆 Profile Achievements
+## 📈 Weekly Activity Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShafinNigamana&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafinNigamana&theme=radical" alt="Shafin's Activity Graph" width="800" />
 </p>
 
 ---
