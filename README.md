@@ -1,120 +1,132 @@
 # Hi, I'm Shafin Nigamana 👋
 
-🚀 **Full Stack Developer (MERN)** | **Backend Specialist (Node.js)**  
-📊 Data Science & Machine Learning Enthusiast  
-🔐 Exploring Cybersecurity & Blockchain  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer+(MERN);Backend+Specialist+(Node.js);Data+Science+%26+ML+Enthusiast;Cybersecurity+%26+Blockchain+Explorer" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shafin-nigamana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shafin.nigamana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wellfound.com/u/shafin-nigamana" target="_blank">
+    <img src="https://img.shields.io/badge/Wellfound-%23000000.svg?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound" />
+  </a>
+</p>
 
 ---
 
 ## 💻 About Me
-- 🎓 **B.Tech Information Technology** Student at CHARUSAT  
-- 🧠 Strong in Scalable Backend Architecture & Algorithmic Problem Solving  
-- ⚡ Built real-world systems integrating REST APIs, AI, and dynamic database layers
-- 🌱 Currently deep-diving into **MySQL query optimization** & **distributed caching systems**  
-- 📍 Ahmedabad, India  
+
+*   🎓 **B.Tech Information Technology** Student at **CHARUSAT**
+*   🧠 Strong in **Scalable Backend Architecture** & **Algorithmic Problem Solving**
+*   💼 Former **Data Science & Machine Learning Intern** at **Beam Propulsion Lab**
+*   🌱 Deep-diving into **MySQL query optimization** & **distributed caching systems**
+*   ⚡ Passionate about building high-fidelity systems integrating REST APIs, AI, and dynamic database layers
+*   📍 Ahmedabad, Gujarat, India
 
 ---
 
 ## 🤝 Open Source & GSSoC '26 Contributions
+
 I am an active contributor to high-fidelity open-source projects. Here is a summary of my latest engineering impacts:
 
-* **[JhaSourav07/CommitPulse](https://github.com/JhaSourav07/commitpulse)** — *Your GitHub contributions — as a cinematic SVG monolith (Next.js, TypeScript, Vitest, SVG geometry)*
-  * 📐 **Math & Geometry Refactoring**: Centralized complex coordinate math by extracting repetitive 3D isometric tower renderings into a centralized utility (`buildTowerPaths`) to enforce DRY principles.
-  * 🕐 **Coordinate Scale Correction**: Fixed floating-point origin drift logic inside CSS animations for scaled visualization cards.
-  * 🧪 **Rigorous Validation Testing**: Designed robust Vitest integration test suites asserting edge-case query parameters (like null percentage delta outputs and string length truncation limits).
+### ⚡ **[JhaSourav07/CommitPulse](https://github.com/JhaSourav07/commitpulse)**
+*Your GitHub contributions — as a cinematic SVG monolith (Next.js, TypeScript, Vitest, SVG geometry)*
+
+*   📐 **Math & Geometry Refactoring**: Centralized complex coordinate math by extracting repetitive 3D isometric tower renderings into a centralized utility (`buildTowerPaths`) to enforce DRY principles.
+*   🕐 **Coordinate Scale Correction**: Fixed floating-point origin drift logic inside CSS animations for scaled visualization cards.
+*   🧪 **Rigorous Validation Testing**: Designed robust Vitest integration test suites asserting edge-case query parameters (like null percentage delta outputs and string length truncation limits).
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🌐 Frontend & Styling
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & Caching
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧰 Tools & Ecosystem
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📌 Featured Project
-
-### 🔹 [UniEvents](https://github.com/ShafinNigamana/UniEvents) – Event Management Platform
-*Secure, full-stack MERN application designed for managing and orchestrating university events in real-time.*
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Key Architecture & Features:**
-* **Role-Based Workflows**: Granular access control separation between administrative leads and students.
-* **JWT Security Core**: Secure stateless token-based authorization and session integrity.
-* **Event Lifecycle Engine**: Automated scheduling, workflow pipelines, and data archiving.
-* **RESTful Design**: Structured endpoint design for high throughput and clean data shape mapping.
-
----
-
-## 📊 Developer Metrics & Stats
-
-<div align="center">
-  <h3>⚡ My Live CommitPulse Monolith ⚡</h3>
-  <img src="https://commitpulse.vercel.app/api/streak?user=ShafinNigamana" alt="CommitPulse Streak" width="420" />
-</div>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShafinNigamana&show_icons=true&theme=radical" alt="Shafin's Github Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShafinNigamana&layout=compact&theme=radical" alt="Shafin's Top Languages" />
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShafinNigamana&theme=radical" alt="Shafin's Streak Stats" />
+### 🌐 Frontend Frameworks & Styling
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### ⚙️ Backend, Caching & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+</p>
+
+### 🔧 Developer Tools & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
-## 📈 Weekly Activity Graph
+## 🚀 Featured Projects
+
+Here are some of the key platforms I've architected:
+
+### 🏆 **[UniEvents](https://github.com/ShafinNigamana/UniEvents)**
+*An elegant event management platform designed for universities.*
+*   🔐 Robust security layer integrating **JWT authentication** and strict role-based access control.
+*   ⚙️ Built automated **workflow pipelines** for event request validation, approval, and scheduling.
+*   🎨 Clean dashboard with modern, highly interactive UI components.
+
+### 🛡️ **[Argus](https://github.com/ShafinNigamana/Argus)**
+*Developed for Google Solution Challenge 2026.*
+*   🧠 Integrates Machine Learning models for automated surveillance, log analysis, and threat detection.
+*   🌐 Real-time updates and notifications using WebSocket architectures.
+
+### ⚒️ **[DailyForge](https://github.com/ShafinNigamana/dailyforge)**
+*A comprehensive MERN-stack task and project management suite.*
+*   📈 Dynamic dashboards visualizing task lifecycle metrics, priority queues, and deadline reminders.
+*   💾 Fast state persistence and optimized database schemas built on top of Express/MongoDB.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafinNigamana&theme=radical" alt="Shafin's Activity Graph" width="800" />
+  <img src="https://commitpulse.vercel.app/api/streak?user=ShafinNigamana&bg=0d1117&accent=a855f7&scale=log&refresh=true&size=large" alt="CommitPulse Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafinNigamana&theme=tokyo-night&hide_border=true" alt="GitHub Readme Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://commitpulse.vercel.app/api/streak?user=ShafinNigamana&view=monthly&theme=github" alt="CommitPulse Monthly Calendar" />
 </p>
 
 ---
 
-## 🌐 Connect & Collaborate
-<p align="center">
-  <a href="mailto:shafin.nigamana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shafin.nigamana@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/shafin-nigamana">
-    <img src="https://img.shields.io/badge/LinkedIn-Shafin_Nigamana-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 🐍 Contribution Snake & Pacman Graph
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShafinNigamana&color=blue" alt="Profile Views" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-> ⚡ *"Consistency in coding beats motivation every time."*
+*(Note: To enable the pacman contribution graph above, refer to the workflow instructions in your workspace!)*
