@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer Banner" width="60%" style="border-radius: 8px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Developer Banner" width="60%" style="border-radius: 8px;" />
 </p>
 
 <p align="center">
@@ -143,4 +143,5 @@ Here are some of the key platforms I've architected:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg" />
 </picture>
+
 
