@@ -1,7 +1,15 @@
-# Hi, I'm Shafin Nigamana 👋
+<h1 align="center">Hi, I'm Shafin Nigamana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer+(MERN);Backend+Specialist+(Node.js);Data+Science+%26+ML+Enthusiast;Cybersecurity+%26+Blockchain+Explorer" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShafinNigamana&label=Profile%20Views&color=a855f7&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer Banner" width="60%" style="border-radius: 8px;" />
 </p>
 
 <p align="center">
@@ -11,12 +19,13 @@
   <a href="mailto:shafin.nigamana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  
 </p>
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /></p>
 
 ## 💻 About Me
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5384ba2-bf78-4be4-94be-4559c1827245" width="180" align="right" />
 
 *   🎓 **B.Tech Information Technology** Student at **CHARUSAT**
 *   🧠 Strong in **Scalable Backend Architecture** & **Algorithmic Problem Solving**
@@ -25,7 +34,7 @@
 *   ⚡ Passionate about building high-fidelity systems integrating REST APIs, AI, and dynamic database layers
 *   📍 Ahmedabad, Gujarat, India
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /></p>
 
 ## 🤝 Open Source & GSSoC '26 Contributions
 
@@ -38,12 +47,10 @@ I am an active contributor to high-fidelity open-source projects. Here is a summ
 *   🕐 **Coordinate Scale Correction**: Fixed floating-point origin drift logic inside CSS animations for scaled visualization cards.
 *   🧪 **Rigorous Validation Testing**: Designed robust Vitest integration test suites asserting edge-case query parameters (like null percentage delta outputs and string length truncation limits).
 
----
-
-## 🛠️ Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Tech Stack
 
 ### 👨‍💻 Languages
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -53,7 +60,7 @@ I am an active contributor to high-fidelity open-source projects. Here is a summ
 </p>
 
 ### 🌐 Frontend Frameworks & Styling
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -61,7 +68,7 @@ I am an active contributor to high-fidelity open-source projects. Here is a summ
 </p>
 
 ### ⚙️ Backend, Caching & Databases
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -72,14 +79,14 @@ I am an active contributor to high-fidelity open-source projects. Here is a summ
 </p>
 
 ### 🔧 Developer Tools & DevOps
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /></p>
 
 ## 🚀 Featured Projects
 
@@ -101,28 +108,39 @@ Here are some of the key platforms I've architected:
 *   📈 Dynamic dashboards visualizing task lifecycle metrics, priority queues, and deadline reminders.
 *   💾 Fast state persistence and optimized database schemas built on top of Express/MongoDB.
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /></p>
 
-## 📊 GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Detailed Analytics & Stats
 
 <p align="center">
-  <img src="https://commitpulse.vercel.app/api/streak?user=ShafinNigamana&bg=0d1117&accent=a855f7&scale=log&refresh=true&size=large" alt="CommitPulse Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShafinNigamana&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafinNigamana&theme=tokyo-night&hide_border=true" alt="GitHub Readme Activity Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShafinNigamana&theme=dracula" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShafinNigamana&theme=dracula" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://commitpulse.vercel.app/api/streak?user=ShafinNigamana&view=monthly&theme=github" alt="CommitPulse Monthly Calendar" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShafinNigamana&theme=dracula&utcOffset=5.5" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafinNigamana&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+
+<p align="center">
+  <img src="https://commitpulse.vercel.app/api/streak?user=ShafinNigamana&view=monthly&theme=github" width="100%" alt="CommitPulse Monthly Calendar" />
+</p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /></p>
 
 ## 🐍 Contribution Snake & Pacman Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg" />
 </picture>
+
