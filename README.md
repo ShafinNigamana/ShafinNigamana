@@ -11,9 +11,7 @@
   <a href="mailto:shafin.nigamana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wellfound.com/u/shafin-nigamana" target="_blank">
-    <img src="https://img.shields.io/badge/Wellfound-%23000000.svg?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound" />
-  </a>
+  
 </p>
 
 ---
