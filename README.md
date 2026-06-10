@@ -128,5 +128,3 @@ Here are some of the key platforms I've architected:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg">
 </picture>
-
-*(Note: To enable the pacman contribution graph above, refer to the workflow instructions in your workspace!)*
