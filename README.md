@@ -27,7 +27,8 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5384ba2-bf78-4be4-94be-4559c1827245" width="180" align="right" />
 
-*   🎓 **B.Tech Information Technology** Student at **CHARUSAT**
+*   🎓 **B.Tech Information Technology** Student at **CHARUSAT** (2025 – 2028)
+*   🎓 **Diploma, Computer Engineering** from **Government Polytechnic Porbandar** (CGPA: 8.27 / 10)
 *   🧠 Strong in **Scalable Backend Architecture** & **Algorithmic Problem Solving**
 *   💼 Former **Data Science & Machine Learning Intern** at **Beam Propulsion Lab**
 *   🌱 Deep-diving into **MySQL query optimization** & **distributed caching systems**
@@ -47,9 +48,30 @@ I am an active contributor to high-fidelity open-source projects. Here is a summ
 *   🕐 **Coordinate Scale Correction**: Fixed floating-point origin drift logic inside CSS animations for scaled visualization cards.
 *   🧪 **Rigorous Validation Testing**: Designed robust Vitest integration test suites asserting edge-case query parameters (like null percentage delta outputs and string length truncation limits).
 
+### ✈️ **[amoghsawant17/career-pilot](https://github.com/amoghsawant17/career-pilot)**
+*AI-powered career assistant.*
+
+### 🎨 **[Draftdeckai/Draftdeckai](https://github.com/Draftdeckai/Draftdeckai)**
+*AI presentation builder.*
+
+### 🌐 **[Tessera-io/Tessera.io](https://github.com/Tessera-io/Tessera.io)**
+*Collaborative platform.*
+
+### ⚒️ **[aviralsingh2004/DailyForge](https://github.com/aviralsingh2004/DailyForge)**
+*Productivity & habit tracker.*
+
+### 📖 **[storyspark-ai/story-spark-ai](https://github.com/storyspark-ai/story-spark-ai)**
+*AI story generation platform.*
+
+### ⚡ **[codewithrohan07/EaseMotion-css](https://github.com/codewithrohan07/EaseMotion-css)**
+*CSS animation library.*
+
+### 🎮 **[leetcode-city/The-Leetcode-City](https://github.com/leetcode-city/The-Leetcode-City)**
+*LeetCode gamification platform.*
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Tech Stack
 
-### 👨‍💻 Languages
+### 👨💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -92,6 +114,16 @@ I am an active contributor to high-fidelity open-source projects. Here is a summ
 
 Here are some of the key platforms I've architected:
 
+### 🏆 **[Apna Vakeel](https://github.com/ShafinNigamana/ApnaVakeel)**
+*AI Legal Assistant for Indian Laws — RAG-powered chatbot grounded in 8 verified legal PDFs.*
+*   🧠 Powered by **Groq LLaMA 3.1** with a custom **LangChain RAG pipeline** and **FAISS vector search** across IPC, BNS 2023, Constitution, POCSO, and more.
+*   🌐 Supports queries in English/Hindi and maps answers directly to verified legal sources.
+
+### 📊 **[TaskSphere](https://github.com/ShafinNigamana/task-management-mern)**
+*Premium team collaboration and task management platform.*
+*   📋 Features drag-and-drop Kanban boards, role-based access control (RBAC), live activity feeds, and CSV exports.
+*   💾 Implemented a hybrid database architecture (**MongoDB + MySQL**) for optimal operational tracking and audit logging.
+
 ### 🏆 **[UniEvents](https://github.com/ShafinNigamana/UniEvents)**
 *An elegant event management platform designed for universities.*
 *   🔐 Robust security layer integrating **JWT authentication** and strict role-based access control.
@@ -99,14 +131,19 @@ Here are some of the key platforms I've architected:
 *   🎨 Clean dashboard with modern, highly interactive UI components.
 
 ### 🛡️ **[Argus](https://github.com/ShafinNigamana/Argus)**
-*Developed for Google Solution Challenge 2026.*
-*   🧠 Integrates Machine Learning models for automated surveillance, log analysis, and threat detection.
-*   🌐 Real-time updates and notifications using WebSocket architectures.
+*Real-time identity check developed for Google Solution Challenge.*
+*   🧠 Real-time human verification using **FFT-based signal analysis** & rPPG liveness detection.
+*   ⚙️ Led backend integration, coordinating challenge-response protocols and WebSocket streaming updates.
 
 ### ⚒️ **[DailyForge](https://github.com/ShafinNigamana/dailyforge)**
 *A comprehensive MERN-stack task and project management suite.*
 *   📈 Dynamic dashboards visualizing task lifecycle metrics, priority queues, and deadline reminders.
 *   💾 Fast state persistence and optimized database schemas built on top of Express/MongoDB.
+
+### 🏫 **[School Management API](https://github.com/ShafinNigamana/school-management-api)**
+*REST API with distance-aware school sorting.*
+*   📍 Implemented the **Haversine formula** to filter and sort school coordinates dynamically by user distance.
+*   🗄️ Standardized input validation and structured error handling for Node.js, Express, and MySQL.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /></p>
 
@@ -143,5 +180,3 @@ Here are some of the key platforms I've architected:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ShafinNigamana/ShafinNigamana/output/pacman-contribution-graph.svg" />
 </picture>
-
-
