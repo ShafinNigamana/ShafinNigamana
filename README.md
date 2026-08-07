@@ -153,16 +153,8 @@ Here are some of the key platforms I've architected:
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShafinNigamana&theme=dracula&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafinNigamana&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
-
-<p align="center">
-  <img src="https://commitpulse.vercel.app/api/streak?user=ShafinNigamana&view=monthly&theme=github" width="100%" alt="CommitPulse Monthly Calendar" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShafinNigamana&theme=dracula&utcOffset=5.5" width="48%" height="195" />
+  <img src="https://commitpulse.vercel.app/api/streak?user=ShafinNigamana&view=monthly&theme=github" width="48%" height="195" alt="CommitPulse Monthly Calendar" />
 </p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /></p>
