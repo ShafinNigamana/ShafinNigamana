@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shafin Nigamana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer+(MERN);Backend+Specialist+(Node.js);Data+Science+%26+ML+Enthusiast;Cybersecurity+%26+Blockchain+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer+(MERN);Backend+Specialist+(Node.js);Cyber+Security+Enthusiast" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -30,7 +30,6 @@
 *   🎓 **B.Tech Information Technology** Student at **CHARUSAT** (2025 – 2028)
 *   🎓 **Diploma, Computer Engineering** from **Government Polytechnic Porbandar** (CGPA: 8.27 / 10)
 *   🧠 Strong in **Scalable Backend Architecture** & **Algorithmic Problem Solving**
-*   💼 Former **Data Science & Machine Learning Intern** at **Beam Propulsion Lab**
 *   🌱 Deep-diving into **MySQL query optimization** & **distributed caching systems**
 *   ⚡ Passionate about building high-fidelity systems integrating REST APIs, AI, and dynamic database layers
 *   📍 Ahmedabad, Gujarat, India
@@ -113,11 +112,6 @@ I am an active contributor to high-fidelity open-source projects. Here is a summ
 ## 🚀 Featured Projects
 
 Here are some of the key platforms I've architected:
-
-### 🏆 **[Apna Vakeel](https://github.com/ShafinNigamana/ApnaVakeel)**
-*AI Legal Assistant for Indian Laws — RAG-powered chatbot grounded in 8 verified legal PDFs.*
-*   🧠 Powered by **Groq LLaMA 3.1** with a custom **LangChain RAG pipeline** and **FAISS vector search** across IPC, BNS 2023, Constitution, POCSO, and more.
-*   🌐 Supports queries in English/Hindi and maps answers directly to verified legal sources.
 
 ### 📊 **[TaskSphere](https://github.com/ShafinNigamana/task-management-mern)**
 *Premium team collaboration and task management platform.*
